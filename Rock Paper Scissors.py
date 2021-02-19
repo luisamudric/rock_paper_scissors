@@ -158,4 +158,3 @@ root.mainloop()
 
 ##COMMENTS##
 #I know how to do the 5 wins but only in theory. I've tried a couple of different ways and couldn't figure out how to implement it.
-#Even though it's not the most representable game of rock, paper, scissors, the mechanics of it do work!
